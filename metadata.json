@@ -1,0 +1,5 @@
+{
+  "name": "JLPT Word Flip Challenge",
+  "description": "A 5x5 grid game for learning JLPT vocabulary. Type the Korean meaning of any Japanese word on the board to flip it, earn points, and reveal new words.",
+  "requestFramePermissions": []
+}
